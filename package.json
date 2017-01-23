@@ -1,0 +1,22 @@
+{
+  "name": "websocket",
+  "version": "0.0.1",
+  "description": "estima92's websocket",
+  "dependencies": {
+    "express": "^4.14.0",
+    "node-static": "0.7.7",
+    "socket.io": "1.2.0",
+    "body-parser": "*",
+    "logger": "*"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-core": "^6.21.0",
+    "babel-loader": "^6.2.10",
+    "babel-preset-env": "^1.1.7",
+    "webpack": "^1.14.0"
+  },
+  "scripts": {
+    "build": ""
+  }
+}
